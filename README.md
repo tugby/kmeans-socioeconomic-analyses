@@ -9,7 +9,7 @@ This project applies K-means clustering to socio-economic indicators and violenc
 - Elbow method (WSS)
 - Silhouette analysis
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **R** – Data analysis and statistical computing  
 - **RStudio** – Integrated development environment (IDE)  
 - **readxl** – Reading Excel files  
